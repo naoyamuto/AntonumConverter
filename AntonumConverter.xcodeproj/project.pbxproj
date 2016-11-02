@@ -418,7 +418,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.naoyamuto.AntonumConverter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -431,7 +431,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.naoyamuto.AntonumConverter;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
@@ -512,6 +512,7 @@
 				B2E5C1E31DCA329B00040912 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B2E5C1E41DCA329B00040912 /* Build configuration list for PBXNativeTarget "AntonumConverterTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +521,7 @@
 				B2E5C1E61DCA329B00040912 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B2E5C1E71DCA329B00040912 /* Build configuration list for PBXNativeTarget "AntonumConverterUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +530,7 @@
 				B2E5C1E91DCA329B00040912 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
